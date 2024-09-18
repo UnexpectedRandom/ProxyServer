@@ -15,8 +15,8 @@ This project implements a simple multithreaded TCP proxy server in Python using 
 
 1. **Clone the repository**:
     ```bash
-    git clone <repository-url>
-    cd <repository-directory>
+    git clone https://github.com/UnexpectedRandom/ProxyServer
+    cd ProxyServer
     ```
 
 2. **Install Dependencies**: (No external dependencies required, built with Python's standard libraries)
