@@ -23,7 +23,7 @@ This project implements a simple multithreaded TCP proxy server in Python using 
 
 3. **Run the Proxy Server**:
     ```bash
-    python proxy.py
+    python main.py
     ```
 
    The proxy server will start listening for connections on `127.0.0.1:8080` by default. You can modify the `HOST` and `PORT` in the script if needed.
